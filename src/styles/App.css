@@ -1,0 +1,17 @@
+.header{
+    font-family: "Roboto Light", 'sans-serif';
+    font-size: 18pt;
+    text-align: center;
+    color: #000;
+}
+
+.content{
+    padding: 1rem;
+    word-break: break-all;
+}
+
+.counter{
+    font-size: 16pt;
+    text-align: center;
+    color: red;
+}
